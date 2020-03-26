@@ -6,8 +6,8 @@ function Logar(){
  
  var Senha = document.getElementById("Senha").value;
      //IF compara
-if (Login == "Thiago" && Senha == "123") {alert("Você Logou Seu Filho Da Puta");}
-else {alert("Voce Falhou Miseravelmente");}
+if (Login == "Lucas" && Senha == "1234") {alert("Parabén Você esta Logado");}
+else {alert("Algo está errado, tente novamente");}
 	
 	}
 	//pegar a entrada primeiro}
